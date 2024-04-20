@@ -9,7 +9,7 @@
   <li>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="52" width="40" alt="slack logo" />
   <a href="https://discordapp.com/users/393819926093365262" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></a>
-  <a href="https://linkedin.com/in/thomas-hamer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="52" width="40" /></a>
+  <a href="https://linkedin.com/in/thomas hamer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="52" width="40" /></a>
   </li>
 </ul>
 <h3 align="left">Languages and Tools:</h3>
