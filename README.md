@@ -2,6 +2,9 @@
 <h3 align="center">A passionate developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomashamer3&label=Profile%20views&color=0e75b6&style=flat" alt="thomashamer3" /> </p>
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQzaXcwcjdzNHU4c3p6Zzh0aHdyM3ppcGlhcTkzZzM5ZjJzZXB4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5ZXLNjCATnOjf4s7eH/giphy.gif"  />
+
+###
 
 <h3>Connect with me:</h3>
 <ul>
